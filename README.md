@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🚀 Founder & Chief AI Architect @ Elyvori Factory
 
-<!--
-**dhairm92-oss/dhairm92-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior AI Systems Architect & Full-Stack Specialist with 5+ years of experience in cross-platform development (Flutter/Dart) and AI integration. Building autonomous software engineering pipelines that convert Figma design prototypes directly into production-ready software systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Elyvori Factory Core Stack & Automation
+- **AI Automation:** Custom Autonomous AI Agents, LLM Integrations, Full-Stack Code Gen
+- **Mobile & Web:** Flutter, Dart, BLoC, Next.js, React, Tailwind CSS
+- **Backend & Cloud:** Python, Node.js, Express, Firebase, REST APIs, Cloud Deployments
+- **Architecture:** Clean Architecture, Scalable Design Systems, CI/CD Pipelines
+
+---
+
+### 🌐 Connect & Collaborate
+- 💼 **LinkedIn:** [Mohammed Dhair](https://www.linkedin.com/in/mohammed-dhair)
+- 🏢 **Organization:** Elyvori Factory
+- 📩 **Contact:** Open for Enterprise AI Architecture Consultations & High-Value Strategic Partnerships.
